@@ -56,3 +56,13 @@ double random(int N, int x)
 	return Rrms;
 }
 
+
+
+/***********************************OUTPUT******************************************************
+_______________2D random walk for N=200 over 500 walks_________________
+Enter seed for random number generator :
+9
+
+ The rms value of distance over 500 walks is is 14.049385
+ The sqrt value of the step count is 14.142136
+ ****************************************************************************************************/
